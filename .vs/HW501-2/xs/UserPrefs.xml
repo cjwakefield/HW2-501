@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8CB46E5D-F103-4207-B4A1-CA9242C10F26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW501-2/HW2-Semester.cs">
+    <Files>
+      <File FileName="HW501-2/HW2-Semester.cs" Line="8" Column="13" />
+      <File FileName="HW501-2/Section.cs" Line="7" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HW501-2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

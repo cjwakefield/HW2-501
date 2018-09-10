@@ -1,0 +1,2 @@
+/home/colin/Projects/HW501-2/HW501-2/obj/x86/Debug/HW501-2.csprojAssemblyReference.cache
+/home/colin/Projects/HW501-2/HW501-2/obj/x86/Debug/HW501-2.csproj.CoreCompileInputs.cache
