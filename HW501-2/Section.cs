@@ -5,6 +5,9 @@ namespace HW5012
     {
         public string number;
         public int _cap; 
+        private Course _course ;
+        private IFaculty _faculty; 
+        private Semester _section ; 
         public void SetNumber(string number)
         {
             this.number = number; 
@@ -20,11 +23,6 @@ namespace HW5012
         public int GetCap()
         {
             return _cap;
-        }
-
-        public Section()
-        {
-
         }
     }
 }

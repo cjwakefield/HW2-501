@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{8CB46E5D-F103-4207-B4A1-CA9242C10F26}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HW501-2/HW2-Semester.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW501-2/Course.cs">
     <Files>
-      <File FileName="HW501-2/HW2-Semester.cs" Line="8" Column="13" />
-      <File FileName="HW501-2/Section.cs" Line="7" Column="25" />
+      <File FileName="HW501-2/HW2-Semester.cs" Line="24" Column="10" />
+      <File FileName="HW501-2/Section.cs" Line="13" Column="10" />
+      <File FileName="HW501-2/Semester.cs" Line="1" Column="1" />
+      <File FileName="HW501-2/IFaculty.cs" Line="1" Column="1" />
+      <File FileName="HW501-2/Faculty.cs" Line="1" Column="1" />
+      <File FileName="HW501-2/Course.cs" Line="2" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
