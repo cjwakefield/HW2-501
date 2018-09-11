@@ -4,7 +4,7 @@ namespace HW5012
     public abstract class Section
     {
         public string number;
-        public int _cap; 
+        public int cap; 
         private Course _course ;
         private IFaculty _faculty; 
         private Semester _section ; 
@@ -16,13 +16,13 @@ namespace HW5012
         {
             return number; 
         }
-        public void SetCap(int _cap)
+        public void SetCap(int cap)
         {
-            this._cap = _cap;
+            this.cap = cap;
         }
         public int GetCap()
         {
-            return _cap;
+            return cap;
         }
     }
 }

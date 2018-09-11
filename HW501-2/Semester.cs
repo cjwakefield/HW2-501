@@ -6,12 +6,12 @@ namespace HW5012
     public class Semester
     {
         private string _name;
-        private List<Section> Sections; 
+        private List<Section> _sections; 
 
         public Semester(string Name)
         {
             this._name = Name;
-            Sections = new List<Section>(); 
+            _sections = new List<Section>(); 
         }
         public string GetName() 
         {
@@ -19,7 +19,7 @@ namespace HW5012
         }
         public void IncludeSection(Section NewSection)
         {
-            Sections.Add(NewSection); 
+            _sections.Add(NewSection); 
         }
     }
 }
