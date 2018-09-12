@@ -1,0 +1,3 @@
+/home/colin/Projects/HW501-2/HW501-2/bin/Release/HW501-2.exe
+/home/colin/Projects/HW501-2/HW501-2/obj/x86/Release/HW501-2.csproj.CoreCompileInputs.cache
+/home/colin/Projects/HW501-2/HW501-2/obj/x86/Release/HW501-2.exe
