@@ -3,7 +3,15 @@ namespace HW5012
 {
     public class Online : Section
     {
-
+        /// <summary>
+        /// This class in one of the two main calsses that make the progream actrualy exicutiable
+        /// it stores all data for the user. 
+        /// </summary>
+        /// <param name="semester">Semester.</param>
+        /// <param name="course">Course.</param>
+        /// <param name="teacher">Teacher.</param>
+        /// <param name="number">Number.</param>
+        /// <param name="cap">Cap.</param>
         public Online(Semester semester , Course course , Faculty teacher , string number , int cap)
         {
             this._semester = semester; 
@@ -12,10 +20,14 @@ namespace HW5012
             this.number = number;
             this.cap = cap; 
         }
+        /// <summary>
+        /// Returns a <see cref="T:System.String"/> that represents the current <see cref="T:HW5012.Online"/>.
+        /// </summary>
+        /// <returns>A <see cref="T:System.String"/> that represents the current <see cref="T:HW5012.Online"/>.</returns>
         public override string ToString()
         {
             return _course.Number + " section (" + _course.Title + ")" +
-                          "is being taught by " + _faculty.GetName() + " in " + _semester.GetName(); 
+                          " is being taught by " + _faculty.GetName() + " in " + _semester.GetName(); 
         }
     }
 }

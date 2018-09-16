@@ -3,6 +3,10 @@ namespace HW5012
 {
     class Program
     {
+        /// <summary>
+        /// The entry point of the program, where the program control starts and ends.
+        /// </summary>
+        /// <param name="args">The command-line arguments.</param>
         static void Main(string[] args)
         {
             Semester s = new Semester("Fall");
